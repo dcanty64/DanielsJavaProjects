@@ -32,7 +32,7 @@ public class ApplicationMain
                     ".My answer is " + answer);
             String outText=("My name is"+ name +
                     ".My age is " + age +
-                    ".My answer is " + answer)
+                    ".My answer is " + answer);
           	// TODO code application logic here
 	}
 
